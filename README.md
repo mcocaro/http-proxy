@@ -5,6 +5,7 @@ A node.js HTTP proxy to use whenever fixed IP services require this and you are 
 
 1. Get all the required modules setup by running
 
-```npm install
-   node http-proxy.js
+```bash
+npm install
+node http-proxy.js
 ```
